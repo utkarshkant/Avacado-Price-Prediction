@@ -17,8 +17,8 @@ This data was downloaded from the Hass Avocado Board website. Here's how the Has
 * The Product Lookup codes (PLU’s) in the table are only for Hass avocados. Other varieties of avocados (e.g. greenskins) are not included in this table.
 
 ## Data Dictionary
-* Date - The date of the observation
-* AveragePrice - the average price of a single avocado
+* `Date` - The date of the observation
+* `AveragePrice` - the average price of a single avocado
 * `type` - conventional or organic
 * `year` - the year
 * `Region` - the city or region of the observation
